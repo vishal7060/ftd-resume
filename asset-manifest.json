@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/resumeftd/static/css/main.f0b9a2c4.css",
-    "main.js": "/resumeftd/static/js/main.1428b8b4.js",
-    "static/js/703.afca951d.chunk.js": "/resumeftd/static/js/703.afca951d.chunk.js",
-    "static/js/598.d318085d.chunk.js": "/resumeftd/static/js/598.d318085d.chunk.js",
-    "static/js/787.61b62c3a.chunk.js": "/resumeftd/static/js/787.61b62c3a.chunk.js",
+    "main.js": "/resumeftd/static/js/main.e37215a6.js",
+    "static/js/703.be04084d.chunk.js": "/resumeftd/static/js/703.be04084d.chunk.js",
+    "static/js/598.206370bd.chunk.js": "/resumeftd/static/js/598.206370bd.chunk.js",
+    "static/js/787.4e969279.chunk.js": "/resumeftd/static/js/787.4e969279.chunk.js",
     "static/media/T2.jpg": "/resumeftd/static/media/T2.c00a819414b83a9c7476.jpg",
     "static/media/T4.jpg": "/resumeftd/static/media/T4.9f3af8640bf4161bc153.jpg",
     "static/media/T3.jpg": "/resumeftd/static/media/T3.f0eb67a6ce13281f9bfe.jpg",
@@ -12,13 +12,13 @@
     "static/media/aboutCV.jpg": "/resumeftd/static/media/aboutCV.dd655c959eb91a827e82.jpg",
     "index.html": "/resumeftd/index.html",
     "main.f0b9a2c4.css.map": "/resumeftd/static/css/main.f0b9a2c4.css.map",
-    "main.1428b8b4.js.map": "/resumeftd/static/js/main.1428b8b4.js.map",
-    "703.afca951d.chunk.js.map": "/resumeftd/static/js/703.afca951d.chunk.js.map",
-    "598.d318085d.chunk.js.map": "/resumeftd/static/js/598.d318085d.chunk.js.map",
-    "787.61b62c3a.chunk.js.map": "/resumeftd/static/js/787.61b62c3a.chunk.js.map"
+    "main.e37215a6.js.map": "/resumeftd/static/js/main.e37215a6.js.map",
+    "703.be04084d.chunk.js.map": "/resumeftd/static/js/703.be04084d.chunk.js.map",
+    "598.206370bd.chunk.js.map": "/resumeftd/static/js/598.206370bd.chunk.js.map",
+    "787.4e969279.chunk.js.map": "/resumeftd/static/js/787.4e969279.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b9a2c4.css",
-    "static/js/main.1428b8b4.js"
+    "static/js/main.e37215a6.js"
   ]
 }
